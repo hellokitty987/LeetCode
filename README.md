@@ -1,5 +1,6 @@
 # LeetCode Practice
 - LeetCode profile: https://leetcode.com/u/jy2023/
+- Primary focus: SQL (window functions, joins, aggregation) + core DE patterns.
 
 
 ## LeetCode Stats
@@ -7,7 +8,7 @@
 
 
 ## LeetCode Heatmap
-[![LeetCode Heatmap](https://leetcard.jacoblin.cool/jy2023?ext=heatmap)](https://leetcode.com/u/jy2023/)
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/jy2023?ext=heatmap&hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count)](https://leetcode.com/u/jy2023/)
 
 
 ## LeetCode Badges
