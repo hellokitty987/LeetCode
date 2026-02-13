@@ -4,7 +4,7 @@
 
 
 ## LeetCode Stats
-
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jy2023?hide=ranking)](https://leetcode.com/u/jy2023/)
 
 
 ## LeetCode Stats + Heatmap
