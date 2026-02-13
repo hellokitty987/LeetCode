@@ -3,8 +3,6 @@
 - Primary focus: SQL (window functions, joins, aggregation) + core DE patterns.
 
 
-## LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jy2023?cache=0&hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count)
 
 
 ## LeetCode Stats + Heatmap
