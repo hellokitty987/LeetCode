@@ -4,7 +4,7 @@
 
 
 ## LeetCode Stats
-[![LeetCode Stats]([https://leetcard.jacoblin.cool/jy2023?hide=ranking)](https://leetcode.com/u/jy2023/](https://leetcard.jacoblin.cool/jy2023?hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count))
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jy2023?hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count)
 
 
 ## LeetCode Stats + Heatmap
