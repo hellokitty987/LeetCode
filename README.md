@@ -12,7 +12,7 @@
 ## LeetCode Badges
 ![LeetCode 50 Days Badge 2026](https://github.com/hellokitty987/LeetCode/blob/main/assets/LeetCode%20Badge%202026.png)
 
-![LeetCode 50 Days Badge 2025](https://github.com/hellokitty987/LeetCode/blob/main/assets/LeetCode%20Badge.png)
+![LeetCode 50 Days Badge 2025](https://github.com/hellokitty987/LeetCode/blob/main/assets/LeetCode%20Badge%202025.png)
 
 
 ## Notes
